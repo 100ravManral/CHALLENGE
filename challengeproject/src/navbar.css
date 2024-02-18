@@ -1,0 +1,27 @@
+/* navbar.css */
+nav {
+    background-color: #333; /* Set the background color */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove bullet points from the list */
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  button {
+    background-color: transparent; /* Set the background color of buttons */
+    border: none; /* Remove button border */
+    color: white; /* Set the text color */
+    padding: 10px 20px; /* Add padding to buttons */
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  button:hover {
+    background-color: #555; /* Change background color on hover */
+  }
+  

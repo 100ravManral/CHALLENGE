@@ -1,0 +1,18 @@
+/* BarGraph.css */
+
+/* BarGraph.css */
+
+/* BarGraph.css */
+
+.bar-graph-container {
+    width: 50%; /* Set the width to be medium-sized */
+    margin: 0 auto; /* Center the container horizontally */
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center the canvas horizontally */
+  }
+  
+  canvas#barChart {
+    width: 80%; /* Set the width of the canvas to be 80% of the container */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
